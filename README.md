@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Himanshuyadav6764/dSA/tree/master/0053-maximum-subarray) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Himanshuyadav6764/dSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Himanshuyadav6764/dSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Himanshuyadav6764/dSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Himanshuyadav6764/dSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
