@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himanshuyadav6764/dSA/tree/master/0053-maximum-subarray) |
+| [0705-design-hashset](https://github.com/Himanshuyadav6764/dSA/tree/master/0705-design-hashset) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Himanshuyadav6764/dSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -34,4 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himanshuyadav6764/dSA/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Himanshuyadav6764/dSA/tree/master/0705-design-hashset) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Himanshuyadav6764/dSA/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Himanshuyadav6764/dSA/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Himanshuyadav6764/dSA/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
