@@ -104,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Himanshuyadav6764/dSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Himanshuyadav6764/dSA/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
