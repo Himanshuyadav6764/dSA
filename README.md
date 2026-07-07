@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Himanshuyadav6764/dSA/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/Himanshuyadav6764/dSA/tree/master/0705-design-hashset) |
 | [1288-remove-covered-intervals](https://github.com/Himanshuyadav6764/dSA/tree/master/1288-remove-covered-intervals) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Himanshuyadav6764/dSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/Himanshuyadav6764/dSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Himanshuyadav6764/dSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Himanshuyadav6764/dSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
