@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himanshuyadav6764/dSA/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Himanshuyadav6764/dSA/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Himanshuyadav6764/dSA/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/Himanshuyadav6764/dSA/tree/master/0705-design-hashset) |
 | [1288-remove-covered-intervals](https://github.com/Himanshuyadav6764/dSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Himanshuyadav6764/dSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Himanshuyadav6764/dSA/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Himanshuyadav6764/dSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Himanshuyadav6764/dSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Himanshuyadav6764/dSA/tree/master/3620-network-recovery-pathways) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himanshuyadav6764/dSA/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Himanshuyadav6764/dSA/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Himanshuyadav6764/dSA/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/Himanshuyadav6764/dSA/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/Himanshuyadav6764/dSA/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Himanshuyadav6764/dSA/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Himanshuyadav6764/dSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -96,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Himanshuyadav6764/dSA/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Himanshuyadav6764/dSA/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Himanshuyadav6764/dSA/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/Himanshuyadav6764/dSA/tree/master/1288-remove-covered-intervals) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Himanshuyadav6764/dSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Himanshuyadav6764/dSA/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -132,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshuyadav6764/dSA/tree/master/2390-removing-stars-from-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Himanshuyadav6764/dSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Himanshuyadav6764/dSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
