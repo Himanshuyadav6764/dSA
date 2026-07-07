@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Himanshuyadav6764/dSA/tree/master/0202-happy-number) |
 | [0705-design-hashset](https://github.com/Himanshuyadav6764/dSA/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Himanshuyadav6764/dSA/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Himanshuyadav6764/dSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -114,5 +115,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Himanshuyadav6764/dSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Himanshuyadav6764/dSA/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Himanshuyadav6764/dSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Himanshuyadav6764/dSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
