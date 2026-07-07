@@ -114,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Himanshuyadav6764/dSA/tree/master/0172-factorial-trailing-zeroes) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Himanshuyadav6764/dSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
