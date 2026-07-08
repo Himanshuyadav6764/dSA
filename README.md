@@ -116,17 +116,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Himanshuyadav6764/dSA/tree/master/0771-jewels-and-stones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Himanshuyadav6764/dSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshuyadav6764/dSA/tree/master/2390-removing-stars-from-a-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Himanshuyadav6764/dSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Himanshuyadav6764/dSA/tree/master/0238-product-of-array-except-self) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Himanshuyadav6764/dSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Himanshuyadav6764/dSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Himanshuyadav6764/dSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Himanshuyadav6764/dSA/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Himanshuyadav6764/dSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Himanshuyadav6764/dSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
