@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Himanshuyadav6764/dSA/tree/master/1288-remove-covered-intervals) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Himanshuyadav6764/dSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Himanshuyadav6764/dSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3536-maximum-product-of-two-digits](https://github.com/Himanshuyadav6764/dSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Himanshuyadav6764/dSA/tree/master/0202-happy-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Himanshuyadav6764/dSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Himanshuyadav6764/dSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Himanshuyadav6764/dSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Himanshuyadav6764/dSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Himanshuyadav6764/dSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
