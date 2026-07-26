@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Himanshuyadav6764/dSA/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Himanshuyadav6764/dSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Himanshuyadav6764/dSA/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Himanshuyadav6764/dSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/Himanshuyadav6764/dSA/tree/master/0705-design-hashset) |
 | [1260-shift-2d-grid](https://github.com/Himanshuyadav6764/dSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Himanshuyadav6764/dSA/tree/master/1288-remove-covered-intervals) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Himanshuyadav6764/dSA/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Himanshuyadav6764/dSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Himanshuyadav6764/dSA/tree/master/1288-remove-covered-intervals) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Himanshuyadav6764/dSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Himanshuyadav6764/dSA/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Himanshuyadav6764/dSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Himanshuyadav6764/dSA/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Himanshuyadav6764/dSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Himanshuyadav6764/dSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Himanshuyadav6764/dSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Himanshuyadav6764/dSA/tree/master/3536-maximum-product-of-two-digits) |
