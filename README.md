@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Himanshuyadav6764/dSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshuyadav6764/dSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/Himanshuyadav6764/dSA/tree/master/0705-design-hashset) |
+| [0877-stone-game](https://github.com/Himanshuyadav6764/dSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Himanshuyadav6764/dSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Himanshuyadav6764/dSA/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Himanshuyadav6764/dSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himanshuyadav6764/dSA/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/Himanshuyadav6764/dSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Himanshuyadav6764/dSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Himanshuyadav6764/dSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Himanshuyadav6764/dSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Himanshuyadav6764/dSA/tree/master/3620-network-recovery-pathways) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Himanshuyadav6764/dSA/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Himanshuyadav6764/dSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshuyadav6764/dSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Himanshuyadav6764/dSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Himanshuyadav6764/dSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Himanshuyadav6764/dSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Himanshuyadav6764/dSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -228,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Himanshuyadav6764/dSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Himanshuyadav6764/dSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
