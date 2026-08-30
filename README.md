@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Himanshuyadav6764/dSA/tree/master/1872-stone-game-viii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Himanshuyadav6764/dSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2029-stone-game-ix](https://github.com/Himanshuyadav6764/dSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshuyadav6764/dSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Himanshuyadav6764/dSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Himanshuyadav6764/dSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Himanshuyadav6764/dSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Himanshuyadav6764/dSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Himanshuyadav6764/dSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Himanshuyadav6764/dSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshuyadav6764/dSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Himanshuyadav6764/dSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Himanshuyadav6764/dSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Himanshuyadav6764/dSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
